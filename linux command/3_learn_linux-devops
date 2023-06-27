@@ -1,0 +1,16 @@
+1. Read about shell scripting 
+"https://www.geeksforgeeks.org/introduction-linux-shell-shell-scripting/"
+
+
+check which bash u used - which bash
+create shell - vim firstbash.sh
+- write this
+#!/bin/bash
+echo "this is my first shell file"
+
+
+run shell - ./firstshell.sh
+see permission - ls -l firstshell.sh
+change permission  - chmod 777 firstshell.sh
+                                  
+

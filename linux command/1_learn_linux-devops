@@ -1,0 +1,25 @@
+what is linux :
+Linux is an open-source operating system. It is like Windows, Mac, Android, etc.
+Unix is also an operating system like Linux. It is an commercial OS. It consists of three parts: Kernal, Shell and Programs. Most of the Unix and Linux commands are similar in nature.
+
+what is ec2:
+ec2 is one type of sservice which provide by aws. it provide the diffrenet type of server to run applications
+<!-- : "https://www.simplilearn.com/tutorials/aws-tutorial/aws-ec2" -->
+
+
+what is kernal : 
+The kernel is the core component of an operating system. This provides a platform for programs and various services to run on top of it. The Linux kernel is modifiable according to the user's needs. Overall, the Linux Operating System and Linux kernel together provide a strong and user-friendly platform
+
+
+create file : touch filenamed
+folder create : mkdir foldername
+change directory: cd foldername
+present working directory : pwd 
+file copy command : cp filepath destinationpath
+file move command : cp filepath destinationpath
+print file content : cat filename
+delete file : rm filename
+watch recern file creation history : history
+
+also learn vim editor : "https://phoenixnap.com/kb/how-to-vim-save-quit-exit" 
+

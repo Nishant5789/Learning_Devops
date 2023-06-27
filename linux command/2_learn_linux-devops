@@ -1,0 +1,22 @@
+1. What is SSH and how do I use it?
+SSH or Secure Shell is a network communication protocol that enables two computers to communicate (c.f http or hypertext transfer protocol, which is the protocol used to transfer hypertext such as web pages) and share data. An inherent feature of ssh is that the communication between the two computers is encrypted meaning that it is suitable for use on insecure networks. 
+
+---------- to connect with ec2 server instance we need to use ssh-client way to connet 
+
+rc - ssh  (to check ssh is install on machine)
+rc - sudo (run as adminstrtor in linux)
+
+How to connect to an EC2 instance using SSH using Linux
+step-1. Open your terminal and change directory with command cd, where you downloaded your pem file. ...
+step-2. Type the SSH command with this structure: "ssh -i file.pem username@ip-address". ...
+step-3. After pressing enter, a question will prompt to add the host to your known_hosts file.
+
+
+rc - sudo apt-get update (to update linux system)
+rc - sudo apt-get update (to install any software)
+rc - cat /etc/os-release (to check linux version)
+rc - man command  (Show manual for command)
+
+
+learn about scp command which use to serve file from local machine to server and server to local machine
+"https://www.geeksforgeeks.org/scp-command-in-linux-with-examples/"
